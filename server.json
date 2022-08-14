@@ -4,17 +4,49 @@
       "id": 1,
       "description": "Desenvolvimento do site",
       "type": "income",
-      "category":  "Venda",
-      "price": 14000,
-      "createdAt": "2022-08-14T19:05:36.340Z" 
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2022-08-14T19:05:36.340Z"
     },
     {
       "id": 2,
       "description": "Hamburger",
       "type": "outcome",
-      "category":  "Alimentação",
-      "price": 80,
-      "createdAt": "2022-08-14T19:06:36.340Z" 
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2022-08-14T19:06:36.340Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "2022-08-14T19:06:36.340Z"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "type": "income",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "2022-08-14T19:06:36.340Z"
+    },
+    {
+      "id": 5,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 8000,
+      "createdAt": "2022-08-14T19:06:36.340Z"
+    },
+    {
+      "id": 6,
+      "description": "Janta",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 39,
+      "createdAt": "2022-08-14T19:06:36.340Z"
     }
   ]
 }
